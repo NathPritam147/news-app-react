@@ -1,0 +1,3 @@
+
+.wheel-48x48 { animation: wheel-48x48 1s steps(8) infinite; display: block; width: 48px; height: 48px; background-image:url(loading.png); }
+@keyframes wheel-48x48 { from { background-position: 0px 0px; } to { background-position: 0px -384px; } }
